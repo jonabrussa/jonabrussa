@@ -1,0 +1,10 @@
+@import url(header.css);
+*{
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.titulo {
+background-color: chartreuse;
+
+} 
